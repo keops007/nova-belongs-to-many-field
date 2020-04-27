@@ -116,4 +116,5 @@ public function fields(Request $request){
 For translations of this validations, use normal laravel validations translations.
 
 Credits to: https://github.com/manmohanjit/nova-belongs-to-dependency
+
 Credits to: https://github.com/Benjacho/belongs-to-many-field-nova
